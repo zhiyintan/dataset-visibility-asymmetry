@@ -1,0 +1,200 @@
+1	English	1.5B
+2	Mandarin	1.2B
+3	Hindi	609.1M
+4	Spanish	558.5M
+5	Standard Arabic	334.8M
+6	French	311.9M
+7	Bengali	284.3M
+8	Portuguese	266.6M
+9	Russian	253.4M
+10	Indonesian	252.4M
+11	Urdu	246.0M
+12	Standard German	134.0M
+13	Japanese	125.6M
+14	Nigerian Pidgin	120.7M
+15	Egyptian Arabic	118.6M
+16	Marathi	99.3M
+17	Vietnamese	97.0M
+18	Telugu	95.8M
+19	Hausa	94.4M
+20	Turkish	91.3M
+21	Western Punjabi	90.3M
+22	Swahili	87.2M
+23	Tagalog	86.9M
+24	Tamil	86.3M
+25	Yue Chinese	85.7M
+26	Wu Chinese	83.4M
+27	Iranian Persian	82.6M
+28	Korean	81.6M
+29	Thai	71.4M
+30	Javanese	69.2M
+31	Italian	66.2M
+32	Gujarati	62.5M
+33	Levantine Arabic	60.4M
+34	Amharic	60.0M
+35	Kannada	58.7M
+36	Bhojpuri	52.7M
+37	Sudanese Arabic	52.3M
+38	Yoruba	49.9M
+39	Jinyu Chinese	48.0M
+40	Min Nan Chinese	45.8M
+41	Polish	45.3M
+42	Burmese	44.4M
+43	Algerian Arabic	41.6M
+44	Hakka Chinese	40.7M
+45	Lingala	40.6M
+46	Moroccan Arabic	40.2M
+47	Odia	39.5M
+48	Ukrainian	39.0M
+49	Xiang Chinese	38.2M
+50	Malayalam	38.2M
+51	Sindhi	36.9M
+52	Eastern Punjabi	36.5M
+53	Sunda	35.5M
+54	Igbo	33.7M
+55	Dari	33.4M
+56	Nepali	33.1M
+57	Malay	29.5M
+58	Northern Uzbek	29.4M
+59	Zulu	27.8M
+60	Sa’idi Arabic	27.3M
+61	Northern Pashto	27.2M
+62	West Central Oromo	27.0M
+63	Saraiki	25.6M
+64	Dutch	25.4M
+65	Somali	24.7M
+66	Romanian	23.7M
+67	Assamese	23.6M
+68	Gan Chinese	22.6M
+69	Southern Pashto	21.7M
+70	Cebuano	21.4M
+71	Kazakh	21.4M
+72	Magahi	21.0M
+73	Najdi Arabic	20.9M
+74	Sinhala	20.2M
+75	Mesopotamian Arabic	20.1M
+76	Xhosa	19.2M
+77	Khmer	19.0M
+78	Afrikaans	18.1M
+79	Nigerian Fulfulde	18.0M
+80	Maithili	17.6M
+81	Wolof	17.3M
+82	Northern Kurdish	17.2M
+83	Chhattisgarhi	16.3M
+84	Kinyarwanda	15.3M
+85	Northeastern Thai	15.1M
+86	Chichewa	14.5M
+87	Bamanankan	14.4M
+88	Shona	14.1M
+89	South Azerbaijani	13.8M
+90	Setswana	13.7M
+91	Northern Sotho	13.7M
+92	Bavarian	13.7M
+93	Haitian Creole	13.7M
+94	Uyghur	13.6M
+95	Southern Sotho	13.5M
+96	Greek	13.3M
+97	Swedish	13.3M
+98	Chittagonian	13.0M
+99	Rundi	12.9M
+100	Jula	12.8M
+101	Deccan	12.8M
+102	Bajjika	12.7M
+103	Ganda	12.6M
+104	Sanaani Arabic	12.6M
+105	Tunisian Arabic	12.5M
+106	Czech	12.5M
+107	Kituba	12.4M
+108	Hijazi Arabic	12.3M
+109	Ta’izzi-Adeni Arabic	12.2M
+110	Hungarian	12.1M
+111	Sadri	12.1M
+112	Eastern Oromo	12.1M
+113	Cameroon Pidgin	12.0M
+114	North Mesopotamian Arabic	11.9M
+115	Moore	11.9M
+116	Min Bei Chinese	11.7M
+117	Sylheti	11.5M
+118	Ibibio	11.4M
+119	Congo	11.2M
+120	Rangpuri	10.8M
+121	Min Dong Chinese	10.7M
+122	Tigrigna	10.7M
+123	Tajik	10.6M
+124	Hebrew	10.5M
+125	Borana-Arsi-Guji Oromo	10.4M
+126	North Azerbaijani	10.4M
+127	Gulf Arabic	10.3M
+128	Tsonga	10.0M
+129	Akan	10.0M
+130	Haryanvi	9.8M
+131	Yerwa Kanuri	9.8M
+132	Catalan	9.3M
+133	Ilocano	8.5M
+134	Chadian Arabic	8.3M
+135	Gikuyu	8.3M
+136	Serbian	8.3M
+137	Sukuma	8.1M
+138	Koongo	8.0M
+139	Bulgarian	7.9M
+140	Santhali	7.9M
+141	Kabyle	7.9M
+142	Marwari	7.9M
+143	Northern Thai	7.8M
+144	Umbundu	7.8M
+145	Turkmen	7.8M
+146	Madura	7.8M
+147	Krio	7.8M
+148	Merina	7.5M
+149	Slovak	7.4M
+150	Adamawa Fulfulde	7.4M
+151	Central Pashto	7.3M
+152	Kashmiri	7.2M
+153	Luba-Kasai	7.1M
+154	Pulaar	7.0M
+155	Varhadi	7.0M
+156	Indian	6.8M
+157	Paraguayan Guaraní	6.6M
+158	Swiss German	6.5M
+159	Croatian	6.5M
+160	Hainanese	6.4M
+161	Hiligaynon	6.3M
+162	Kyrgyz	6.1M
+163	Libyan	6.1M
+164	Central Kurdish	6.1M
+165	Kanauji	6.0M
+166	Southern Kurdish	6.0M
+167	Tachelhit	5.8M
+168	Danish	5.8M
+169	Éwé	5.8M
+170	Napoletano	5.7M
+171	Hassaniyya	5.6M
+172	Bundeli	5.6M
+173	Finnish	5.6M
+174	Minangkabau	5.6M
+175	Norwegian	5.5M
+176	Malvi	5.4M
+177	Huizhou Chinese	5.3M
+178	Zarma	5.3M
+179	Baoulé	5.3M
+180	Kamba	5.3M
+181	Dholuo	5.3M
+182	Sango	5.2M
+183	Hadrami Arabic	5.1M
+184	Lambadi	5.1M
+185	Hazaragi	5.1M
+186	Sidaama	5.0M
+187	Ghanaian Pidgin English	5.0M
+188	Liberian English	5.0M
+189	Tiv	5.0M
+190	Pular	4.9M
+191	Gheg Albanian	4.9M
+192	Tatar	4.8M
+193	Awadhi	4.8M
+194	Swati	4.7M
+195	Sicilian	4.7M
+196	Southern Uzbek	4.7M
+197	Shan	4.7M
+198	Luba-Katanga	4.7M
+199	Lao	4.7M
+200	Southern Thai	4.5M

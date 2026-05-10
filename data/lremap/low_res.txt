@@ -1,0 +1,143 @@
+Rank	Language
+14	Nigerian Pidgin
+21	Western Punjabi
+22	Swahili
+26	Wu Chinese
+30	Javanese
+33	Levantine Arabic
+36	Bhojpuri
+37	Sudanese Arabic
+38	Yoruba
+39	Jinyu Chinese
+40	Min Nan Chinese
+42	Burmese
+44	Hakka Chinese
+45	Lingala
+47	Odia
+49	Xiang Chinese
+51	Sindhi
+52	Eastern Punjabi
+53	Sunda
+54	Igbo
+56	Nepali
+58	Northern Uzbek
+60	Sa’idi Arabic
+61	Northern Pashto
+62	West Central Oromo
+63	Saraiki
+65	Somali
+67	Assamese
+68	Gan Chinese
+69	Southern Pashto
+70	Cebuano
+72	Magahi
+73	Najdi Arabic
+76	Xhosa
+77	Khmer
+79	Nigerian Fulfulde
+80	Maithili
+81	Wolof
+82	Northern Kurdish
+83	Chhattisgarhi
+84	Kinyarwanda
+85	Northeastern Thai
+86	Chichewa
+87	Bamanankan
+88	Shona
+89	South Azerbaijani
+90	Setswana
+91	Northern Sotho
+92	Bavarian
+93	Haitian Creole
+94	Uyghur
+95	Southern Sotho
+98	Chittagonian
+99	Rundi
+100	Jula
+101	Deccan
+102	Bajjika
+103	Ganda
+104	Sanaani Arabic
+105	Tunisian Arabic
+107	Kituba
+108	Hijazi Arabic
+109	Ta’izzi-Adeni Arabic
+111	Sadri
+112	Eastern Oromo
+113	Cameroon Pidgin
+114	North Mesopotamian Arabic
+115	Moore
+116	Min Bei Chinese
+117	Sylheti
+118	Ibibio
+119	Congo
+120	Rangpuri
+121	Min Dong Chinese
+122	Tigrigna
+123	Tajik
+125	Borana-Arsi-Guji Oromo
+126	North Azerbaijani
+128	Tsonga
+129	Akan
+130	Haryanvi
+131	Yerwa Kanuri
+133	Ilocano
+134	Chadian Arabic
+135	Gikuyu
+137	Sukuma
+138	Koongo
+140	Santhali
+141	Kabyle
+142	Marwari
+143	Northern Thai
+144	Umbundu
+145	Turkmen
+146	Madura
+147	Krio
+148	Merina
+150	Adamawa Fulfulde
+151	Central Pashto
+152	Kashmiri
+153	Luba-Kasai
+154	Pulaar
+155	Varhadi
+156	Indian Sign Language
+157	Paraguayan Guaraní
+160	Hainanese
+161	Hiligaynon
+162	Kyrgyz
+163	Libyan
+164	Central Kurdish
+165	Kanauji
+166	Southern Kurdish
+167	Tachelhit
+169	Éwé
+170	Napoletano
+171	Hassaniyya
+172	Bundeli
+174	Minangkabau
+176	Malvi
+177	Huizhou Chinese
+178	Zarma
+179	Baoulé
+180	Kamba
+181	Dholuo
+182	Sango
+183	Hadrami Arabic
+184	Lambadi
+185	Hazaragi
+186	Sidaama
+187	Ghanaian Pidgin English
+188	Liberian English
+189	Tiv
+190	Pular
+191	Gheg Albanian
+192	Tatar
+193	Awadhi
+194	Swati
+195	Sicilian
+196	Southern Uzbek
+197	Shan
+198	Luba-Katanga
+199	Lao
+200	Southern Thai
